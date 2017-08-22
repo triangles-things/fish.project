@@ -1,5 +1,4 @@
 # Terms of Usage of Fish Contract
-===============================
 
 ## Disclaimer of Liabilities and Warranties
 
