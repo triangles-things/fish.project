@@ -25,7 +25,7 @@ Initial price of token is _0.1 ETH_ and token resolution is 3 decimals (1000 uni
 SO, here it comes:
 
 Contract address is: `0x80c1a36dcbdca742f59f09fda16c43e6ad877c2b`
-You can check that the code is actually the contract at Etherscan: https://etherscan.io/address/0x80c1a36dcbdca742f59f09fda16c43e6ad877c2b #readContract
+You can check that the code is actually the contract at Etherscan: https://etherscan.io/address/0x80c1a36dcbdca742f59f09fda16c43e6ad877c2b#readContract
 
 For the first birds, my address is `0xb8f7c360b194620da49a8af736fddf4e17177bea`. Feed it to `referral` method and you will get your landing discount. 
 
