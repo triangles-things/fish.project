@@ -39,29 +39,29 @@ Contract is published on the Blockchain and only one version of Contract can be 
 
 ## 3 Participation
 
-1 The User can interact with Contract using single or multiple Addresses.
-2 Execution of `buy`, `sell` or `referral` Public functions is a conclusive action that makes User a Participant.
-3 The User can buy Tokens from Contract in exchange for Ether using the buying rate stored in the Contract at the moment of time of buying action or by receiving Tokens from another Participant in return for Ethers or any value of any other form or as any form of gift.
-3.a In case if User received Tokens against User's will User can not sell those tokens to Contract and has to send the Tokens back to Participant whom he received Tokens from.
-4 Participant can sell Tokens to Contract in exchange for Ether using the selling rate stored in the Contract at the moment of selling action.
-5 Participant can transfer Tokens to User or another Participant in return for Ether or any value of other form or as any form of gift.
+1. The User can interact with Contract using single or multiple Addresses.
+2. Execution of `buy`, `sell` or `referral` Public functions is a conclusive action that makes User a Participant.
+3. The User can buy Tokens from Contract in exchange for Ether using the buying rate stored in the Contract at the moment of time of buying action or by receiving Tokens from another Participant in return for Ethers or any value of any other form or as any form of gift.
+   * In case if User received Tokens against User's will User can not sell those tokens to Contract and has to send the Tokens back to Participant whom he received Tokens from.
+4. Participant can sell Tokens to Contract in exchange for Ether using the selling rate stored in the Contract at the moment of selling action.
+5. Participant can transfer Tokens to User or another Participant in return for Ether or any value of other form or as any form of gift.
 
 ## 4 Referral program and Bounties
 
-1 The Referral at every occasion of buying action performed by referred by Referral User is gifted with additional amount of Tokens equivalent to 4% of amount of Tokens issued or sold by Contract to Participant executing `buy` action.
-2 The Referral of Referral at every occasion of buying action performed by referred by Referral User is gifted with additional amount of Tokens equivalent to 2% of amount of Tokens issued or sold by Contract to Participant executing `buy` action.
-3 The Referral of Referral of Referral at every occasion of buying action performed by referred by Referral User is gifted with additional amount of Tokens equivalent to 1% of amount of Tokens issued or sold by Contract to Participant executing `buy` action.
-4 The newly becoming Participant who, prior to interacting with `buy` action, has successfully interacted with `referral` method is gifted with additional amount of Tokens equivalent to 4% of amount of Tokens issued or sold by Contract to newly becoming Participant on first interaction with `buy` method of newly becoming Participant.
-5 Owner can issue Tokens to any Participant on a free will as a gift in the amount of no more than 100000 Tokens (one hundred of unit Tokes) per Address. 
+1. The Referral at every occasion of buying action performed by referred by Referral User is gifted with additional amount of Tokens equivalent to 4% of amount of Tokens issued or sold by Contract to Participant executing `buy` action.
+2. The Referral of Referral at every occasion of buying action performed by referred by Referral User is gifted with additional amount of Tokens equivalent to 2% of amount of Tokens issued or sold by Contract to Participant executing `buy` action.
+3. The Referral of Referral of Referral at every occasion of buying action performed by referred by Referral User is gifted with additional amount of Tokens equivalent to 1% of amount of Tokens issued or sold by Contract to Participant executing `buy` action.
+4. The newly becoming Participant who, prior to interacting with `buy` action, has successfully interacted with `referral` method is gifted with additional amount of Tokens equivalent to 4% of amount of Tokens issued or sold by Contract to newly becoming Participant on first interaction with `buy` method of newly becoming Participant.
+5. Owner can issue Tokens to any Participant on a free will as a gift in the amount of no more than 100000 Tokens (one hundred of unit Tokes) per Address. 
 
 ## 6 Bugs
 
 1 The Contract is provided without any modification mechanism and Contract logic can not be modified intentionaly or unintentionaly at any moment of Life-cycle. 
 2 In event of an unintended logic error ("BUG") is discovered and contradict to any point of Terms a contradicting point of Terms shall not be applied in partial or fully and has to be modified in order to correspond to newly discovered Contract behaviour.
 3 All modifications of Terms shall be listed in Changes section of Terms and modification shall include following information:
-  - Date of modifcation
-  - Reason of modification
-  - Previous version of modified point of Terms
-  - New version of modified point of Terms
+  * Date of modifcation
+  * Reason of modification
+  * Previous version of modified point of Terms
+  * New version of modified point of Terms
 
 ## Changes
