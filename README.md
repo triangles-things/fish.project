@@ -8,6 +8,8 @@ Sell price is also adjusted automatically and is always _90%_ of buy price at an
 
 After waiting just for two weeks person can take out more than what he/she put there initially. If you continue waiting your tokens would worth more of course.
 
+This contract does not contain `selfdistruct` method so it is immortal.
+
 There is also a referral program embedded, rules are following:
 
 1. New user gets additionally 4% of tokens on his first purchase if he sets referral via `referral` method.
@@ -30,10 +32,4 @@ You can check that the code is actually the contract at Etherscan: https://ether
 For the first birds, my address is `0xb8f7c360b194620da49a8af736fddf4e17177bea`. Feed it to `referral` method and you will get your landing discount. 
 
 Why do I do that? I am curious how this will get evolved over time. It is really spectacular to see the growth charts ;) and I want this contract to overcome any existing or coming coin offering in the history :p
-
-Link to corresponding topic on Ethereum forum: _____________________
-Link to corresponding topic on Redit: _____________________
-Link to corresponding topic on Bitcointalk: _____________________
-
-*NB!* This is NOT AN ICO. This is a Ponzi schema contract. Interact with it at YOUR OWN RISK. DO NOT put there your savings money or money that you can not afford to lose. *MAKE SURE YOU CAN LEGALLY PARTICIPATE IN IT*.
 
